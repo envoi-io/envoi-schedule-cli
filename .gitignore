@@ -1,0 +1,6 @@
+.*
+**/.*
+*.local.*
+
+dev/
+node_modules/
